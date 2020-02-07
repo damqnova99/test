@@ -19,11 +19,12 @@ void Eratosthenes(unsigned n)
 	}
 	for (int i = 2; i < n; i++)
 	{
+		afsdfsd
 		
 		if (nums[i])
 			std::cout << i<< " ";
 	}
-
+	deeeba
 }
 int main() {
 	Eratosthenes(200);  // 2 3 5 7 11........... 191 193 197 199
